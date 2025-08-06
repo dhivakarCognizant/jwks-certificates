@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "kid": "test-rsa-2023",
+      "n": "4CGNRP6DvHTV3MEkm3NHG-CZDppUzGvIfBfWXMLe-cRzLwbdS_reubwrjHiYRAkZVEwYkBEyDxTlxKyxNuOnEOugX-oLPaRPsnbEVMhgfI0bOXVjBI-obkpQSks2nmbIhcHJeJiu05DB9-x1m7GrYrtb37x43SvHmymhvO-WKtbvETfTttLIWR0L5DChfglguTG4I807LJtYh2VKQM7EBJcV4q3JNf7DGQ7pAIepgjcqLFLaMwI_WbefXcdrM3RaqqCKHsnjdGcqRRSDasX8od6yPd1WHEK1WeTHo41o4T5aAFDD-M0RflqP5ZTP7_jh1yLEJa9Wjg0x_NxMHxjrow",
+      "e": "AQAB",
+      "alg": "RS256"
+    }
+  ]
+}
