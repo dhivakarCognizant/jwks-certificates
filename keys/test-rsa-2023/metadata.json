@@ -2,7 +2,7 @@
   "kid": "test-rsa-2023",
   "key_type": "RSA",
   "algorithm": "RS256",
-  "created": "2025-08-06T10:19:53.359837Z",
+  "created": "2025-08-06T10:20:16.789876Z",
   "certificate_file": "certificate.pem",
   "jwks_file": "jwks.json",
   "status": "active"
