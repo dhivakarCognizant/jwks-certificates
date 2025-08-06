@@ -1,0 +1,19 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "kid": "test-5",
+      "n": "tDWbRh6RCOBPeGkxEOEbmozpkZ8DPaPSBMO-9AfZa4BT2R24JAflDqVqIAr1DA4wfVVqh3m_XWQpvQzv5fBDWNVsystl4SzNChf0ZySXVQFZhaJL9WvtdpqEJI7ccfDmj8YzSoPlVh9Pqq7o-RS4riZx39e4hdqMtAzu3-LqteTr38C1rk1dC7-PQGK4Y9nnazugsPlTox7uIme9DusWMJZHRl1pjdoeANkBNvAWH6AjIRcLkewNxknmhNnT4hP4CrkVred3wEXzIYENZMhxU91p1j8dwwug1MW3s_KZyL2yrvBNGbA_bnL4czWQFttsg7UuCXuz7118Lvjz8mk0ngBgBWV9vUFI66KxxAT9iqstVWn_Z8DPoeuDlRCQlqCATzytaqDBR8PdXeKGa3ezpoxmukGyMAHor5AULGx4bWnUnzq9g4r6ywA_OWHiJlGsJqsEsYgztkNVN6I9ByszggA0lYKk_iP1YdXvXWg-xS2elY8tT18d6QXwmWTxFAQUxT9Y3WKvYAUFiXPpa_HwoCyxazDerdbls3fLOkv2kY_wt_gVBi0ldRNyTnEgXan6whDjFweGWdKe3bWUElw7dKeuSlUWscstoyI-u-u2r9Ny5FvtSyhpETfYezsD05EzNSuGWB6RVGsiiEBpdBEOSFltVWXJmQYIlC7dEyo1vf0",
+      "e": "AQAB",
+      "alg": "RS512",
+      "key_size": 4096
+    }
+  ],
+  "metadata": {
+    "kid": "test-5",
+    "created": "2025-08-06T12:10:18.044352Z",
+    "key_type": "RSA",
+    "algorithm": "RS512"
+  }
+}
