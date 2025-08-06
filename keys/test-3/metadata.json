@@ -1,0 +1,9 @@
+{
+  "kid": "test-3",
+  "key_type": "RSA",
+  "algorithm": "RS512",
+  "created": "2025-08-06T12:00:35.939530Z",
+  "certificate_file": "certificate.pem",
+  "jwks_file": "jwks.json",
+  "status": "active"
+}
