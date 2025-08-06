@@ -7,13 +7,23 @@
       "n": "tADCuU8MLhB36Pp5OSt5hpJ-lrVlfgHbvAhsj0tq5xfyckJzucEfq_KWPrcf_52okhy0l7gQkf-DcAabVqIng7pkdFhGWTAyMa963fqx-8uTby6TT4PR8m7TsL5K82YUSRcCOmXJRRMQDEzikEVCSRYVRTgm73X-pwFcHfiUYeyw9zwmubaI4aIntJbbYd2ty_iAw4GumWNCb4wtEXQIOPTWONscFVNs1oaSKPYUQvZjEc25aMF2EoS4FYFwjWIlVvSyGU_qgvr2VJCgPQ80mkBWSdpebzPelguf3c-p7ObuHrlcA09oMhqvqaKUXYa8eO-DOaMF-RYEbYyXPUrafQ",
       "e": "AQAB",
       "alg": "RS256"
+    },
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "kid": "test-3",
+      "n": "5njzj0RaipBwUYNTmLuDA4ZlWzDbe8Pm06VIoyGSsmju3OHzE7lR2XJdOlZPr9mt8BUri6MEN5gKvMNpUBMj0ZqEm9Ajlxlf_zzlIXsL1kzWfbdN2wf5n2durx61C_jIRpvbnHWneWJWVvz5PyMtlvwESdgGH3PNPz5vncT9JSB2LVMLNlngAFm4dn9VMq1PuFL-t9vaS98E8Tyv4XFDexRnnK8ndMjB8OuyJn8DmAR2j3FfCTI3qoZomP2LGTG46_56NsieiOS3qnpqSbpja4Od2h39sJemuFj7sPpMFRI4WUPRXzV7JZZ1RZCDnsmBoDeG6TDnBbeWTkhPvSBFLnPr-kI8zNBdtNvtjhjqDmnsYdSjKJETTUBPwfXN8Ysqm_FpEix6Z0h6oGWQ0bp37KZfjhB6CagfP7CiZW4CNv3FQRKNIeDvqyHN1Hr1RsaFND-RBexB91KlTJ9amex2Dq1z3WliVrOoy9NxWaoPTtYQswksP0RmyMlVKK3t-X-s5FbnvQk4Hj1LOk31SDvXQv-2QcDYz0JSzxinl9lmQabKMUEJbbkSyo9g_A0qguAWvKRhaQtUKH08e3lOuTJktGj1GezI1syuxXbtsFMM_cxC5X_ga9Eo2_KNQ63BygaHo6bNkH_jCtJLzIBTJDsGiXlUCFAE1brXqLhDXrXSKm8",
+      "e": "AQAB",
+      "alg": "RS512",
+      "key_size": 4096
     }
   ],
   "metadata": {
-    "last_updated": "2025-08-06T10:52:46.721156Z",
-    "total_keys": 1,
+    "last_updated": "2025-08-06T12:00:38.962471Z",
+    "total_keys": 2,
     "key_ids": [
-      "test-rsa-2023"
+      "test-rsa-2023",
+      "test-3"
     ]
   }
 }
